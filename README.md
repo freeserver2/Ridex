@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/ridex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/ridex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/ridex?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Elon-Musk/ridex)
+  ![GitHub stars](https://img.shields.io/github/stars/Elon-Musk/ridex?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Elon-Musk/ridex?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Elon-Musk?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
   [![YouTube Video Views](https://img.shields.io/youtube/views/DJAK-KODM5E?style=social)](https://youtu.be/DJAK-KODM5E)
 
   <br />
@@ -38,18 +38,18 @@ To run **Ridex** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/ridex.git
+sudo git clone https://github.com/NebaxSif/ridex.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/ridex.git
+git clone https://github.com/NebaxSif/ridex.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/ElonMusk).
 
 ### License
 
